@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 
 # CONFIG - Put your API Key here!
-API_KEY = "YOUR_API_KEY_HERE" 
+API_KEY =  "939992da5d91dd0abd8b0206193845e6"
 
 st.set_page_config(page_title="MHI Pro Scanner", layout="wide")
 st.title("🏀 MHI Basketball Market Scanner")
